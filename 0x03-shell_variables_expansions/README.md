@@ -1,1 +1,1 @@
-Write a script that prints every other line from the input, starting with the first line.
+i am an instant star. Just add water and stir.
