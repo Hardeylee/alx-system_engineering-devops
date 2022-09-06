@@ -1,1 +1,1 @@
-The path to success is to take massive, determined action
+a script that lists all local variables and environment variables, and functions.
